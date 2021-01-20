@@ -3,7 +3,7 @@
 
 - 📚 Soy estudiante en la Tecnicatura Superior en Programación de la UTN.
 
-- 🎓 Egresada del Curso de Programación Web Fullstack en EducacionIT.
+- 🎓 Egresada del Curso de Programación Web Fullstack de EducaciónIT.
 
 - 💻 Actualmente hago proyectos como programadora web freelance en [Koya Web](https://www.koyaweb.com.ar/)
 
