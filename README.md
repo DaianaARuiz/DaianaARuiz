@@ -9,6 +9,8 @@
 
 - 👨‍💻 Mi porfolio: [http://daianaruiz.koyaweb.com.ar/](http://daianaruiz.koyaweb.com.ar/)
 
+- 📧 Mi email **daianayelenruiz@gmail.com**
+
 - 🌱 Me encuentro aprendiendo **React y NodeJS**
 
 <h3 align="left">Connect with me:</h3>
