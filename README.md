@@ -1,11 +1,15 @@
 <h1 align="center">Hola👋, Soy Daiana Ruiz</h1>
 <h3 align="center">Programadora Web Fullstack JR/Trainee</h3>
 
-- 🌱 Me encuentro aprendiendo **React y NodeJS**
+- 📚 Soy estudiante en la Tecnicatura Superior en Programación de la UTN.
+
+- 🎓 Egresada del Curso de Programación Web Fullstack en EducacionIT.
 
 - 💻 Actualmente hago proyectos como programadora web freelance en [Koya Web](https://www.koyaweb.com.ar/)
 
 - 👨‍💻 Mi porfolio: [http://daianaruiz.koyaweb.com.ar/](http://daianaruiz.koyaweb.com.ar/)
+
+- 🌱 Me encuentro aprendiendo **React y NodeJS**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
