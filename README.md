@@ -7,7 +7,7 @@
 
 - 💻 Actualmente hago proyectos como programadora web freelance en [Koya Web](https://www.koyaweb.com.ar/)
 
-- 👨‍💻 Mi porfolio: [http://daianaruiz.koyaweb.com.ar/](http://daianaruiz.koyaweb.com.ar/)
+- 👨‍💻 Mi porfolio (EN PROCESO): [http://daianaruiz.koyaweb.com.ar/](http://daianaruiz.koyaweb.com.ar/) 
 
 - 📧 Mi email **daianayelenruiz@gmail.com**
 
